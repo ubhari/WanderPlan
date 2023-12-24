@@ -1,0 +1,3 @@
+We have used MongoDB for storing all the details related to the project such as the generated itinerary details.
+
+If you wish to use MongoDB only, we have left the space for you to add your own MongoDB URI, otherwise you are free to use any other database technology as well. Just modify the code accordingly.
